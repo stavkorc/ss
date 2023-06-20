@@ -11,10 +11,10 @@ os.system("clear")
 
 os.system("toilet BYY-STAV")
 time.sleep(0.05)
-os.system(delet)
+os.system("clear")
 os.system("toilet BYY-STAV")
 time.sleep(0.05)
-os.system(delet)
+os.system("clear")
 os.system("toilet BYY-STAV")
 time.sleep(3)
 
